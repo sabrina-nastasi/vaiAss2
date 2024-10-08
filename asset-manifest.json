@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sabrina-nastasi/vaiAss2.git/static/css/main.6c927354.css",
+    "main.js": "/sabrina-nastasi/vaiAss2.git/static/js/main.13e4f6b7.js",
+    "static/js/453.bf64c046.chunk.js": "/sabrina-nastasi/vaiAss2.git/static/js/453.bf64c046.chunk.js",
+    "index.html": "/sabrina-nastasi/vaiAss2.git/index.html",
+    "main.6c927354.css.map": "/sabrina-nastasi/vaiAss2.git/static/css/main.6c927354.css.map",
+    "main.13e4f6b7.js.map": "/sabrina-nastasi/vaiAss2.git/static/js/main.13e4f6b7.js.map",
+    "453.bf64c046.chunk.js.map": "/sabrina-nastasi/vaiAss2.git/static/js/453.bf64c046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c927354.css",
+    "static/js/main.13e4f6b7.js"
+  ]
+}
